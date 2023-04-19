@@ -9,3 +9,6 @@ edition = "2021"
 rocket = { version = "0.5.0-rc.3", features = ["tls", "json"] }
 serde = { version = "1.0.130", features = ["derive"] }
 base64 = "0.20.0"
+surrealdb = "1.0.0-beta.9"
+utoipa = "3.3.0"
+utoipa-swagger-ui = "3.1.3"
